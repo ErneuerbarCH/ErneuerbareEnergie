@@ -3,7 +3,33 @@ Seit Jahren liest man immer mehr Artikel über die Klimakrise, Stromproduktion, 
 Diese kurze Zusammenfassung soll aufzeigen, was es für Möglichkeiten mit erneuerbaren Technologien in deinem Zuhause gibt, und wie du bei einer Sanierung deinen Teil zur Energiewende beitragen kannst.
 Diesbezüglich gibt es auch mehrere Artikel wie bspw. ["Sieben Energie-Mythen unter der Lupe" vom WWF Schweiz](https://www.wwf.ch/de/stories/sieben-energie-mythen-unter-der-lupe).
 
-**Möchtest du diese Zusammenfassung ergänzen oder korrigieren? Dann erstelle doch einen Issue oder einen Pull Request.**
+> Möchtest du diese Zusammenfassung ergänzen oder korrigieren? Dann erstelle doch einen [Issue](https://github.com/ErneuerbarCH/ErneuerbareEnergie/issues/new/choose) oder einen [Pull Request](https://github.com/ErneuerbarCH/ErneuerbareEnergie/contribute).
+
+## Inhalt
+ - [Heizen](#heizen)
+   - [Wärmepumpe kurz WP](#wärmepumpe-kurz-wp)
+      - [Prinzip](#prinzip)
+      - [Luft](#luft)
+      - [Wasser](#wasser)
+      - [Erde (Sole)](#erde-sole)
+      - [Kühlung / Klimaanlage](#kühlung--klimaanlage)
+ - [Warmwasser](#warmwasser)
+   - [Warmwasser Wärmepumpe](#warmwasser-wärmepumpe)
+   - [Wärmepumpe Boiler](#wärmepumpe-boiler)
+   - [Solarthermie](#solarthermie)
+- [Photovoltaik (PV)](#photovoltaik-pv)
+   - [Panels](#panels)
+   - [Strommanagement](#strommanagement)
+   - [Speicherung](#speicherung)
+- [Kleinwindkraftanlagen](#kleinwindkraftanlagen)
+- [Case Studies / Anwendungsbeispiele](#case-studies--anwendungsbeispiele)
+   - [Heizung](#heizung)
+   - [Photovoltaik PV](#photovoltaik-pv-1)
+- [Links](#links)
+   - [Subventionen & Beratung](#subventionen--beratung)
+   - [Vergleiche](#vergleiche)
+   - [Lokale Hersteller](#lokale-hersteller)
+- [Quellen](#quellen)
 
 ---
 
@@ -52,12 +78,12 @@ Die meisten Wärmepumpen können auch kühlen. Dabei wird zwischen aktiver und p
 
 ### Solarthermie
 
-## Strom / Photovoltaik (PV)
+---
+
+## Photovoltaik (PV)
 [bauschweiz.ch - Mythen zu Photovoltaik im Check](https://bauschweiz.ch/haustechnik/mythen-zu-photovoltaik-im-check/)
 
 ### Panels
-
-### Wechselrichter
 
 ### Strommanagement
 
@@ -65,8 +91,31 @@ Die meisten Wärmepumpen können auch kühlen. Dabei wird zwischen aktiver und p
 
 ---
 
+## Kleinwindkraftanlagen
+Um auf dem eigenen Grundstück strom zu produzieren gibt es auch kleine Windkraftanlagen, welche sogar teilweise auf dem Dach montiert werden können.
+Dazu gibt es einen guten Artikel bei [nachhaltig leben](https://www.nachhaltigleben.ch/sanieren/kleinwindkraftanlagen-593).
+
+---
+
 ## Case Studies / Anwendungsbeispiele
 
+- [Haus mit Baujahr 1979 wird zum Minergiehaus](https://www.cta.ch/privatkunden/inspiration/luft-wasser-aussen/61a8fe73cdc5f14453616e77)
+
+### Heizung
+- [Eine Heizung für zwei Mehrfamilienhäuser](https://www.cta.ch/privatkunden/inspiration/erdwaerme-grundwasser/61af312da360f8088726c6c3)
+- [Elektrospeicher Heizung durch Luft Wärmepumpe ersetzt](http://elco.net/referenzfilter/de/einfamilienhaus-heimenschwand-be-schweiz/)
+- [Haus von 1930: Ölheizung durch WP ersetzt](https://www.stiebel-eltron.ch/de/home/produkte-loesungen/informieren-planen/referenzen/heizungssanierung_uitikon.html)
+
+### Photovoltaik (PV)
+- [Autarkes Mehrfamilienhaus ohne Stromanschluss](https://www.swisscom.ch/de/magazin/digitalisierung-im-alltag/kein-stromanschluss-unter-dieser-hausnummer/)
+- [Balkonsolargeländer mit Panels von 3s Solar Plus](https://www.anytech-solar.ch/balkon-solargelaender)
+- [Carport mit transparenten AxSun Glas-Glas Modulen](https://www.axsun.de/referenzen/beispiele-transparente-photovoltaik)
+- [Indachanlage für schützenswerte Gebäude (Denkmalpflege)](https://megasol.ch/match/)
+- [Solarheizung für Schwimmbäder](https://dualsun.com/de/anwendungen/schwimmbader/)
+- [Solarzaun Sicht- & Windschutz](https://www.zaunteam.ch/de/zaeune/heim-garten/produktneuheiten/solarzaun)
+- [Staketengeländer mit Solarpanels von megasol](https://gelaenderxpress.ch/solargelaender/)
+- [Terrassen-Überdachung mit transluziden Spezialmodulen](https://megasol.ch/referenzen/wohnhaus-alvaschein/)
+- [Wärmedämmung mit integrierten Panels](https://megasol.ch/referenzen/eco-solar-pilotanlage/)
 
 ---
 
