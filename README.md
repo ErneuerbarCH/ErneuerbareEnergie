@@ -3,7 +3,7 @@ Seit Jahren liest man immer mehr Artikel über die Klimakrise, Stromproduktion, 
 Diese kurze Zusammenfassung soll aufzeigen, was es für Möglichkeiten mit erneuerbaren Technologien in deinem Zuhause gibt, und wie du bei einer Sanierung deinen Teil zur Energiewende beitragen kannst.
 Diesbezüglich gibt es auch mehrere Artikel wie bspw. ["Sieben Energie-Mythen unter der Lupe" vom WWF Schweiz](https://www.wwf.ch/de/stories/sieben-energie-mythen-unter-der-lupe).
 
-> Möchtest du diese Zusammenfassung ergänzen oder korrigieren? Dann erstelle doch einen [Issue](https://github.com/ErneuerbarCH/ErneuerbareEnergie/issues/new/choose) oder einen [Pull Request](https://github.com/ErneuerbarCH/ErneuerbareEnergie/contribute).
+> Möchtest du diese Zusammenfassung ergänzen oder korrigieren? Dann erstelle doch einen [Issue](https://github.com/ErneuerbarCH/ErneuerbareEnergie/issues/new/choose) oder einen [Pull Request](https://github.com/ErneuerbarCH/ErneuerbareEnergie/contribute). Falls du noch Hilfe bezüglich Markdown Dateien (.md) brauchst, findest du hier eine [Kurzanleitung](https://www.markdownguide.org/cheat-sheet).
 
 ## Inhalt
  - [Heizen](#heizen)
@@ -16,17 +16,29 @@ Diesbezüglich gibt es auch mehrere Artikel wie bspw. ["Sieben Energie-Mythen un
  - [Warmwasser](#warmwasser)
    - [Warmwasser Wärmepumpe](#warmwasser-wärmepumpe)
    - [Wärmepumpe Boiler](#wärmepumpe-boiler)
+- [Heizungsunterstützung](#heizungsunterstützung)
    - [Solarthermie](#solarthermie)
+   - [Wassergeführte Pellet-/Stückholzofen (Schwedenofen / Cheminee)](#wassergeführte-pellet-stückholzofen-schwedenofen--cheminee)
 - [Photovoltaik (PV)](#photovoltaik-pv)
    - [Panels](#panels)
    - [Strommanagement](#strommanagement)
    - [Speicherung](#speicherung)
+      - [Warmwasser](#warmwasser-1)
+      - [Puffer- / Schichtspeicher](#puffer---schichtspeicher)
+      - [Gebäude](#gebäude)
+      - [Batterie](#batterie)
+      - [E-Auto BEV/PHEV](#e-auto-bevphev)
+      - [Wasserstoff](#wasserstoff)
 - [Kleinwindkraftanlagen](#kleinwindkraftanlagen)
+- [Für Mieter](#für-mieter)
+   - [Solarkraftwerk für den Balkon (Plug and Play)](#solarkraftwerk-für-den-balkon-plug-and-play)
+   - [Beteiligung an Anlagen](#beteiligung-an-anlagen)
 - [Case Studies / Anwendungsbeispiele](#case-studies--anwendungsbeispiele)
    - [Heizung](#heizung)
    - [Photovoltaik PV](#photovoltaik-pv-1)
 - [Links](#links)
    - [Subventionen & Beratung](#subventionen--beratung)
+   - [Zeitschriften & Blogs](#zeitschriften--blogs)
    - [Vergleiche](#vergleiche)
    - [Lokale Hersteller](#lokale-hersteller)
 - [Quellen](#quellen)
@@ -36,7 +48,7 @@ Diesbezüglich gibt es auch mehrere Artikel wie bspw. ["Sieben Energie-Mythen un
 ## Heizen
 ### Wärmepumpe (kurz WP)
 #### Prinzip
-Mit einer Wärmepumpe wird der Umwelt Wärme enzogen um so mit weniger Strom mehr Wärme zu gewinnen (ähnlich wie ein umgekehrter Kühlschrank). Dadurch erhält man mit 1kW Strom bis zu 7kW Wärme. 
+Mit einer Wärmepumpe wird der Umwelt Wärme enzogen um so mit weniger Strom mehr Wärme zu gewinnen (ähnlich wie ein umgekehrter Kühlschrank). Dadurch erhält man mit 1kW Strom bis zu 7kW Wärme. Bei [hausinfo](https://hausinfo.ch/de/bauen-renovieren/haustechnik-vernetzung/heizung-lueftung-klima/waermepumpen.html) gibt es ein Dossier mit vielen Information zu den verschiedenen Typen von Wärmepumpen.
 
 #### Luft
 Dies ist die günstigste Variante, da es keine Bohrung ins Erdreich benötigt. 
@@ -76,7 +88,13 @@ Die meisten Wärmepumpen können auch kühlen. Dabei wird zwischen aktiver und p
 
 ### Wärmepumpe Boiler
 
+---
+
+## Heizungsunterstützung
+
 ### Solarthermie
+
+### Wassergeführte Pellet-/Stückholzofen (Schwedenofen / Cheminee)
 
 ---
 
@@ -88,12 +106,35 @@ Die meisten Wärmepumpen können auch kühlen. Dabei wird zwischen aktiver und p
 ### Strommanagement
 
 ### Speicherung
+#### Warmwasser
+'nutzbar für Geschirrspühler und Waschmaschine'
+
+#### Puffer- / Schichtspeicher
+
+#### Gebäude
+'Raumtemperatur temporär erhöhen'
+
+#### Batterie
+
+#### E-Auto BEV/PHEV
+
+#### Wasserstoff
+
 
 ---
 
 ## Kleinwindkraftanlagen
 Um auf dem eigenen Grundstück strom zu produzieren gibt es auch kleine Windkraftanlagen, welche sogar teilweise auf dem Dach montiert werden können.
 Dazu gibt es einen guten Artikel bei [nachhaltig leben](https://www.nachhaltigleben.ch/sanieren/kleinwindkraftanlagen-593).
+
+---
+
+## Für Mieter
+### Solarkraftwerk für den Balkon (Plug and Play)
+Wie im Artikel von [erneuer.bar - Die kleine Energiewende](https://www.erneuer.bar/die-kleine-energiewende/) beschrieben, dürfen unter gewissen Umständen Mieter Plug and Play PV Anlagen installieren (bis max 600W). Solche gibt es bei [erneuer.bar](https://go.erneuer.bar/produkte/#solar:101/) oder auch von der [Energiegenossenschaft](https://www.adegeranium.ch/) zu kaufen.
+
+### Beteiligung an Anlagen
+Auch ohne eigenes Grundstück gibt es die Möglichkeit sich an PV-Anlagen zu beteiligen, oder mit Hilfe eines Herkunftnachweises (HKN) Solarstrom zu beziehen. Viele Stromlieferanten bieten einen Solar/Nachhaltiges Stromprodukt an (naturemade star zertifiziert).
 
 ---
 
@@ -108,7 +149,7 @@ Dazu gibt es einen guten Artikel bei [nachhaltig leben](https://www.nachhaltigle
 
 ### Photovoltaik (PV)
 - [Autarkes Mehrfamilienhaus ohne Stromanschluss](https://www.swisscom.ch/de/magazin/digitalisierung-im-alltag/kein-stromanschluss-unter-dieser-hausnummer/)
-- [Balkonsolargeländer mit Panels von 3s Solar Plus](https://www.anytech-solar.ch/balkon-solargelaender)
+- [Balkonsolargeländer mit Panels von 3s Solar Plus](http://solar-metallbau.ch/project/solar-metallbau_mehrfamilienhaus/)
 - [Carport mit transparenten AxSun Glas-Glas Modulen](https://www.axsun.de/referenzen/beispiele-transparente-photovoltaik)
 - [Indachanlage für schützenswerte Gebäude (Denkmalpflege)](https://megasol.ch/match/)
 - [Solarheizung für Schwimmbäder](https://dualsun.com/de/anwendungen/schwimmbader/)
@@ -122,6 +163,7 @@ Dazu gibt es einen guten Artikel bei [nachhaltig leben](https://www.nachhaltigle
 ## Links
 #### Subventionen & Beratung
 - [Das Gebäudeprogramm](https://www.dasgebaeudeprogramm.ch/)
+- [erneuerbarheizen](https://erneuerbarheizen.ch/)
 - [energieschweiz](https://www.energieschweiz.ch/)
 - [GEAK - Der Gebäudeenergieausweis der Kantone](https://www.geak.ch/)
 - [Minergie](https://www.minergie.ch/)
@@ -132,35 +174,44 @@ Dazu gibt es einen guten Artikel bei [nachhaltig leben](https://www.nachhaltigle
     - [Topten Wärmepumpen](https://www.topten.ch/private/products/heat_pumps)
     - [Topten Wärmepumpenboiler](https://www.topten.ch/private/products/electric_water_heaters)
 
+#### Zeitschriften & Blogs
+- [pv magazine](https://www.pv-magazine.de/)
+
 #### Lokale Hersteller
- - Wärmepumpen & Solarthermie
-    - [alpha innotec](https://www.alpha-innotec.ch/)
-    - [Buderus](https://www.buderus.com/)
-    - [CTA](https://www.cta.ch/)
-    - [elco](https://elco.ch/)
-    - [Hoval](https://www.hoval.ch/)
-    - [Ochsner](https://www.ochsner.com/)
-    - [Stiebel Eltron](https://www.stiebel-eltron.ch/)
-    - [Swisstherm](https://www.swisstherm.ch/)
-    - [Vaillant](https://www.vaillant.ch/)
-    - [Viessmann](https://www.viessmann.ch/)
-    - [Waterkotte](https://www.waterkotte.ch/)
-    - [weishaupt](https://www.weishaupt-ag.ch/)
- - Photovoltaik / PV
-    - [3S Solar Plus](https://3s-solarplus.ch/)
-    - [aleo Solar](https://www.aleo-solar.ch/)
-    - [AxSun](https://www.axsun.de/)
-    - [DualSun](https://dualsun.com/)
-    - [eternit](https://www.eternit.ch/de/products/solar)
-    - [Heckert Solar](https://www.heckertsolar.com/)
-    - [KIOTO SOLAR](https://www.kiotosolar.com/)
-    - [megasol](https://megasol.ch/)
-    - [Meyer Burger](https://www.meyerburger.com/)
- - Strommanagement
-    - [Solar Manager](https://www.solarmanager.ch/)
- - Warmwasserreduktion
-    - [Joulia](https://joulia.com/)
-    - [Orbital Shower](https://orbital-systems.com/)
+- Wärmepumpen & Solarthermie
+   - [alpha innotec](https://www.alpha-innotec.ch/)
+   - [Buderus](https://www.buderus.com/)
+   - [CTA](https://www.cta.ch/)
+   - [elco](https://elco.ch/)
+   - [Hoval](https://www.hoval.ch/)
+   - [Ochsner](https://www.ochsner.com/)
+   - [Stiebel Eltron](https://www.stiebel-eltron.ch/)
+   - [Swisstherm](https://www.swisstherm.ch/)
+   - [Vaillant](https://www.vaillant.ch/)
+   - [Viessmann](https://www.viessmann.ch/)
+   - [Waterkotte](https://www.waterkotte.ch/)
+   - [weishaupt](https://www.weishaupt-ag.ch/)
+- Photovoltaik / PV
+   - [3S Solar Plus](https://3s-solarplus.ch/)
+   - [aleo Solar](https://www.aleo-solar.ch/)
+   - [AxSun](https://www.axsun.de/)
+   - [DualSun](https://dualsun.com/)
+   - [eternit](https://www.eternit.ch/de/products/solar)
+   - [Heckert Solar](https://www.heckertsolar.com/)
+   - [KIOTO SOLAR](https://www.kiotosolar.com/)
+   - [megasol](https://megasol.ch/)
+   - [Meyer Burger](https://www.meyerburger.com/)
+- Balkon PV Anlage (Plug & Play)
+   - [ADE!geranium (Made in DE)](https://www.adegeranium.ch/)
+   - [erneuer.bar](https://go.erneuer.bar/)
+- Investment
+   - [Solarify](https://solarify.ch/?ref=192)
+   - [Stromallmend](https://stromallmend.ch/)
+- Strommanagement
+   - [Solar Manager](https://www.solarmanager.ch/)
+- Warmwasserreduktion
+   - [Joulia](https://joulia.com/)
+   - [Orbital Shower](https://orbital-systems.com/)
 
  *Dies ist keine abschliessende Liste und auch keine Empfehlung*
 
